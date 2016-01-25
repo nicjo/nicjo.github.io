@@ -1,0 +1,13 @@
+h1 {
+    font-family: Helvetica, sans-serif;
+    color: #42636E;
+}
+
+.profile {
+    border-radius: 50%;
+    border 1px solid #42636E;
+}
+
+#subtitle {
+    font-family: Courier, serif;
+}
