@@ -37,13 +37,13 @@ body {
 }
 
 .sprite {
-    background: url("images/flat-social-media-icons-enfuzed.png") no-repeat;
+    background: url("../images/flat-social-media-icons-enfuzed.png") no-repeat;
 }
-.twitter {
+.youtube {
         width: 50px; /* Icon width */
         height: 50px; /* Icon height */
         display: inline-block; /* Display icon as inline block */
-        background-position: 0 0px; /* Icon background position in sprite */
+        background-position: -480px 0; /* Icon background position in sprite */
         float: left;
         margin-right: 10px;
         margin-bottom: 15px;
