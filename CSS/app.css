@@ -5,9 +5,32 @@ h1 {
 
 .profile {
     border-radius: 50%;
-    border 1px solid #42636E;
+    border: 2px solid black;
+    float: left;
+    margin-right: 10px;
+    display: inline;
+    width: 150px;
+    height: 150px;
+    
 }
 
 #subtitle {
     font-family: Courier, serif;
+    font-style: italic;
+}
+
+#intro {
+    background-color: #CAD7DE;
+    opacity: 0.8;
+    padding-left: 20px;
+    width: 70%;
+    float: left;
+    font-family: helvetica, sans-serif;
+
+}
+
+body {
+    background-color: white;
+    background-image: url(http://www.aveburyheartcentre.net/wp-content/uploads/2014/11/winter-7.jpg);
+    
 }
