@@ -1,5 +1,5 @@
 h1 {
-    font-family: Helvetica, sans-serif;
+    font-family: 'Roboto Slab', serif;
     color: #42636E;
 }
 
@@ -13,6 +13,7 @@ h1 {
     height: 150px;
     
 }
+
 
 #subtitle {
     font-family: Courier, serif;
@@ -33,4 +34,29 @@ body {
     background-color: white;
     background-image: url(http://www.aveburyheartcentre.net/wp-content/uploads/2014/11/winter-7.jpg);
     
+}
+
+.sprite {
+    background: url("images/flat-social-media-icons-enfuzed.png") no-repeat;
+}
+.twitter {
+        width: 50px; /* Icon width */
+        height: 50px; /* Icon height */
+        display: inline-block; /* Display icon as inline block */
+        background-position: 0 0px; /* Icon background position in sprite */
+        float: left;
+        margin-right: 10px;
+        margin-bottom: 15px;
+}
+
+#twitter {
+    float: left;
+    margin-right: 5px;
+    margin-bottom: 15px;
+}
+
+#github {
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 15px;
 }
